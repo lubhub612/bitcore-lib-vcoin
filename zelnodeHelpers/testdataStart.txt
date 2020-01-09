@@ -1,0 +1,16 @@
+e3f3f9442f1969b0dffda74869a6a4f17b987001904c364f494100d4de573fe9
+
+05000000 - version
+02 - ntype
+2a462f65f2d7aa3ca9448c9b3e9b5b1a1d4817cac8a9d5f804c226544392ec48 - collateral out hash
+00000000 - index
+21 - (size of collateral pub key
+027d3f1ad671921dc4715a0e1b3b7dcfc741b24da9e563f4be07dff6edcac86f25 - collateral pub key
+41 - size of pub key
+049cb3a830267c7a05ba93decc8e12fda4ee88bc8ce28b1c8d8ab157d25224eba6c9d82dc50d9661e5ee67ec888a28f086301334e373cc55cdecc79f5dc1f8c836 - public key
+3e4fdd5d00000000 - sig time
+09 - size of IP
+3132372e302e302e31 IP
+41 - size of sig
+205b67974a62c2eb7cf8697b74ad3cd34b209bfdb9c75d96b6e6c5aeeb2b42d03a6d2d0ef44454a977a2425543a2811c55ddc2778e2f41cb8fb7b937f5c8b3ec88 - sig
+

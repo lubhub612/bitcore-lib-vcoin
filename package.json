@@ -1,6 +1,6 @@
 {
   "name": "bitcore-lib-zelcash",
-  "version": "0.14.1",
+  "version": "0.15.0",
   "description": "A pure and powerful JavaScript ZelCash library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
