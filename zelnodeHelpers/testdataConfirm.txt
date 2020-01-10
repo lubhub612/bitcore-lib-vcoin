@@ -2,7 +2,7 @@ ddd65460c2dc6f4d120dd37a771caba9ea1a1c68df9d3be67090cf03de7ced1d
 
 05000000 version
 04 ntype
-2a462f65f2d7aa3ca9448c9b3e9b5b1a1d4817cac8a9d5f804c226544392ec48 collateral out hasw
+2a462f65f2d7aa3ca9448c9b3e9b5b1a1d4817cac8a9d5f804c226544392ec48 collateral out hash
 00000000 collateral index
 8263dd5d00000000 sigtime
 02 benchmark tier (1,2 4)
