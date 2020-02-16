@@ -4,10 +4,12 @@ ddd65460c2dc6f4d120dd37a771caba9ea1a1c68df9d3be67090cf03de7ced1d
 04 ntype
 2a462f65f2d7aa3ca9448c9b3e9b5b1a1d4817cac8a9d5f804c226544392ec48 collateral out hash
 00000000 collateral index
-8263dd5d00000000 sigtime
+8263dd5d sigtime
 02 benchmark tier (1,2 4)
-0b5edd5d00000000 benchmark sig time
+0b5edd5d benchmark sig time
 01 nupdatetype
+09 - size of IP
+3132372e302e302e31 IP
 41 size of sig
 1c3d32528128c9aed3d1ba62da8351f3b124e2751c0e8e112dd19ae413412824d3529b9e74d793b3c25e6d517f64089e6a8590ca64a8d69d491deac296190ea155 sig
 41 size of benchmark sig

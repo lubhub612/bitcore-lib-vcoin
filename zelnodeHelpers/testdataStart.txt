@@ -8,7 +8,7 @@ e3f3f9442f1969b0dffda74869a6a4f17b987001904c364f494100d4de573fe9
 027d3f1ad671921dc4715a0e1b3b7dcfc741b24da9e563f4be07dff6edcac86f25 - collateral pub key
 41 - size of pub key
 049cb3a830267c7a05ba93decc8e12fda4ee88bc8ce28b1c8d8ab157d25224eba6c9d82dc50d9661e5ee67ec888a28f086301334e373cc55cdecc79f5dc1f8c836 - public key
-3e4fdd5d00000000 - sig time
+3e4fdd5d - sig time
 09 - size of IP
 3132372e302e302e31 IP
 41 - size of sig
