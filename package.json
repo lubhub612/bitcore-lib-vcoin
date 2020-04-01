@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-lib-zelcash",
+  "name": "bitcore-lib-vcoin",
   "version": "0.15.0",
-  "description": "A pure and powerful JavaScript ZelCash library.",
+  "description": "A pure and powerful JavaScript Vcoin library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -94,7 +94,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zelcash/bitcore-lib-zelcash.git"
+    "url": "https://github.com/lubhub612/bitcore-lib-vcoin.git"
   },
   "browser": {
     "request": "browser-request"
